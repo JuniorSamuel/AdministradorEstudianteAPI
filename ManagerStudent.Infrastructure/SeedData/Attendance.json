@@ -1,0 +1,461 @@
+[
+  {
+    "Id": 73,
+    "StudentId": 2,
+    "Status": "A",
+    "Date": "2022-12-28"
+  },
+  {
+    "Id": 74,
+    "StudentId": 3,
+    "Status": "A",
+    "Date": "2022-12-28"
+  },
+  {
+    "Id": 75,
+    "StudentId": 4,
+    "Status": "E",
+    "Date": "2022-12-28"
+  },
+  {
+    "Id": 77,
+    "StudentId": 6,
+    "Status": "P",
+    "Date": "2022-12-28"
+    
+  },
+  {
+    "Id": 78,
+    "StudentId": 7,
+    "Status": "P",
+    "Date": "2022-12-28"
+
+  },
+  {
+    "Id": 79,
+    "StudentId": 8,
+    "Status": "P",
+    "Date": "2022-12-28"
+    
+  },
+  {
+    "Id": 80,
+    "StudentId": 9,
+    "Status": "P",
+    "Date": "2022-12-28"
+    
+  },
+  {
+    "Id": 81,
+    "StudentId": 10,
+    "Status": "P",
+    "Date": "2022-12-28"
+    
+  },
+  {
+    "Id": 82,
+    "StudentId": 16,
+    "Status": "P",
+    "Date": "2022-12-28"
+    
+  },
+  {
+    "Id": 83,
+    "StudentId": 17,
+    "Status": "P",
+    "Date": "2022-12-28"
+    
+  },
+  {
+    "Id": 84,
+    "StudentId": 18,
+    "Status": "P",
+    "Date": "2022-12-28"
+    
+  },
+  {
+    "Id": 85,
+    "StudentId": 2,
+    "Status": "P",
+    "Date": "2022-12-26"
+    
+  },
+  {
+    "Id": 86,
+    "StudentId": 3,
+    "Status": "P",
+    "Date": "2022-12-26"
+    
+  },
+  {
+    "Id": 87,
+    "StudentId": 4,
+    "Status": "P",
+    "Date": "2022-12-26"
+    
+  },
+  {
+    "Id": 89,
+    "StudentId": 6,
+    "Status": "P",
+    "Date": "2022-12-26"
+    
+  },
+  {
+    "Id": 90,
+    "StudentId": 7,
+    "Status": "A",
+    "Date": "2022-12-26"
+    
+  },
+  {
+    "Id": 91,
+    "StudentId": 8,
+    "Status": "A",
+    "Date": "2022-12-26"
+    
+  },
+  {
+    "Id": 92,
+    "StudentId": 9,
+    "Status": "A",
+    "Date": "2022-12-26"
+    
+  },
+  {
+    "Id": 93,
+    "StudentId": 10,
+    "Status": "P",
+    "Date": "2022-12-26"
+    
+  },
+  {
+    "Id": 94,
+    "StudentId": 16,
+    "Status": "A",
+    "Date": "2022-12-26"
+    
+  },
+  {
+    "Id": 95,
+    "StudentId": 17,
+    "Status": "P",
+    "Date": "2022-12-26"
+    
+  },
+  {
+    "Id": 96,
+    "StudentId": 18,
+    "Status": "P",
+    "Date": "2022-12-26"
+    
+  },
+  {
+    "Id": 109,
+    "StudentId": 2,
+    "Status": "P",
+    "Date": "2022-12-27"
+    
+  },
+  {
+    "Id": 110,
+    "StudentId": 3,
+    "Status": "P",
+    "Date": "2022-12-27"
+    
+  },
+  {
+    "Id": 111,
+    "StudentId": 4,
+    "Status": "E",
+    "Date": "2022-12-27"
+    
+  },
+  {
+    "Id": 113,
+    "StudentId": 6,
+    "Status": "E",
+    "Date": "2022-12-27"
+    
+  },
+  {
+    "Id": 114,
+    "StudentId": 7,
+    "Status": "E",
+    "Date": "2022-12-27"
+    
+  },
+  {
+    "Id": 115,
+    "StudentId": 8,
+    "Status": "P",
+    "Date": "2022-12-27"
+    
+  },
+  {
+    "Id": 116,
+    "StudentId": 9,
+    "Status": "P",
+    "Date": "2022-12-27"
+    
+  },
+  {
+    "Id": 117,
+    "StudentId": 10,
+    "Status": "P",
+    "Date": "2022-12-27"
+    
+  },
+  {
+    "Id": 118,
+    "StudentId": 16,
+    "Status": "P",
+    "Date": "2022-12-27"
+    
+  },
+  {
+    "Id": 119,
+    "StudentId": 17,
+    "Status": "A",
+    "Date": "2022-12-27"
+    
+  },
+  {
+    "Id": 120,
+    "StudentId": 18,
+    "Status": "A",
+    "Date": "2022-12-27"
+    
+  },
+  {
+    "Id": 121,
+    "StudentId": 2,
+    "Status": "A",
+    "Date": "2022-12-29"
+    
+  },
+  {
+    "Id": 122,
+    "StudentId": 3,
+    "Status": "A",
+    "Date": "2022-12-29"
+    
+  },
+  {
+    "Id": 123,
+    "StudentId": 4,
+    "Status": "A",
+    "Date": "2022-12-29"
+    
+  },
+  {
+    "Id": 125,
+    "StudentId": 6,
+    "Status": "P",
+    "Date": "2022-12-29"
+    
+  },
+  {
+    "Id": 126,
+    "StudentId": 7,
+    "Status": "P",
+    "Date": "2022-12-29"
+    
+  },
+  {
+    "Id": 127,
+    "StudentId": 8,
+    "Status": "P",
+    "Date": "2022-12-29"
+    
+  },
+  {
+    "Id": 128,
+    "StudentId": 9,
+    "Status": "P",
+    "Date": "2022-12-29"
+    
+  },
+  {
+    "Id": 129,
+    "StudentId": 10,
+    "Status": "P",
+    "Date": "2022-12-29"
+    
+  },
+  {
+    "Id": 130,
+    "StudentId": 16,
+    "Status": "P",
+    "Date": "2022-12-29"
+    
+  },
+  {
+    "Id": 131,
+    "StudentId": 17,
+    "Status": "P",
+    "Date": "2022-12-29"
+    
+  },
+  {
+    "Id": 132,
+    "StudentId": 18,
+    "Status": "P",
+    "Date": "2022-12-29"
+    
+  },
+  {
+    "Id": 133,
+    "StudentId": 2,
+    "Status": "A",
+    "Date": "2022-12-23"
+    
+  },
+  {
+    "Id": 134,
+    "StudentId": 3,
+    "Status": "A",
+    "Date": "2022-12-23"
+    
+  },
+  {
+    "Id": 135,
+    "StudentId": 4,
+    "Status": "A",
+    "Date": "2022-12-23"
+    
+  },
+  {
+    "Id": 137,
+    "StudentId": 6,
+    "Status": "P",
+    "Date": "2022-12-23"
+    
+  },
+  {
+    "Id": 138,
+    "StudentId": 7,
+    "Status": "P",
+    "Date": "2022-12-23"
+    
+  },
+  {
+    "Id": 139,
+    "StudentId": 8,
+    "Status": "P",
+    "Date": "2022-12-23"
+    
+  },
+  {
+    "Id": 140,
+    "StudentId": 9,
+    "Status": "P",
+    "Date": "2022-12-23"
+    
+  },
+  {
+    "Id": 141,
+    "StudentId": 10,
+    "Status": "P",
+    "Date": "2022-12-23"
+    
+  },
+  {
+    "Id": 142,
+    "StudentId": 16,
+    "Status": "P",
+    "Date": "2022-12-23"
+    
+  },
+  {
+    "Id": 143,
+    "StudentId": 17,
+    "Status": "P",
+    "Date": "2022-12-23"
+    
+  },
+  {
+    "Id": 144,
+    "StudentId": 18,
+    "Status": "P",
+    "Date": "2022-12-23"
+    
+  },
+  {
+    "Id": 167,
+    "StudentId": 2,
+    "Status": "E",
+    "Date": "2022-12-30"
+    
+  },
+  {
+    "Id": 168,
+    "StudentId": 3,
+    "Status": "E",
+    "Date": "2022-12-30"
+    
+  },
+  {
+    "Id": 169,
+    "StudentId": 4,
+    "Status": "P",
+    "Date": "2022-12-30"
+    
+  },
+  {
+    "Id": 170,
+    "StudentId": 6,
+    "Status": "P",
+    "Date": "2022-12-30"
+    
+  },
+  {
+    "Id": 171,
+    "StudentId": 7,
+    "Status": "A",
+    "Date": "2022-12-30"
+    
+  },
+  {
+    "Id": 172,
+    "StudentId": 8,
+    "Status": "A",
+    "Date": "2022-12-30"
+    
+  },
+  {
+    "Id": 173,
+    "StudentId": 9,
+    "Status": "E",
+    "Date": "2022-12-30"
+    
+  },
+  {
+    "Id": 174,
+    "StudentId": 10,
+    "Status": "P",
+    "Date": "2022-12-30"
+    
+  },
+  {
+    "Id": 175,
+    "StudentId": 16,
+    "Status": "E",
+    "Date": "2022-12-30"
+    
+  },
+  {
+    "Id": 176,
+    "StudentId": 17,
+    "Status": "A",
+    "Date": "2022-12-30"
+    
+  },
+  {
+    "Id": 177,
+    "StudentId": 18,
+    "Status": "P",
+    "Date": "2022-12-30"
+    
+  }
+]

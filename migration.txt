@@ -1,0 +1,4 @@
+
+https://learn.microsoft.com/en-us/ef/core/managing-schemas/migrations/projects?tabs=vs
+
+add-migration ClearnArchitectureV1 -Project ManagerStudent.Infrastructure

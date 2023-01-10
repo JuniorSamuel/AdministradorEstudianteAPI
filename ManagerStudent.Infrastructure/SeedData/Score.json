@@ -1,0 +1,92 @@
+[
+  {
+    "Id": 2,
+    "StudentId": 2,
+    "SubjectId": 1,
+    "Value": 70
+  },
+  {
+    "Id": 3,
+    "StudentId": 3,
+    "SubjectId": 1,
+    "Value": 80
+  },
+  {
+    "Id": 4,
+    "StudentId": 4,
+    "SubjectId": 1,
+    "Value": 78
+  },
+  {
+    "Id": 6,
+    "StudentId": 6,
+    "SubjectId": 1,
+    "Value": 98
+  },
+  {
+    "Id": 7,
+    "StudentId": 7,
+    "SubjectId": 1,
+    "Value": 67
+  },
+  {
+    "Id": 8,
+    "StudentId": 8,
+    "SubjectId": 1,
+    "Value": 89
+  },
+  {
+    "Id": 9,
+    "StudentId": 9,
+    "SubjectId": 1,
+    "Value": 78
+  },
+  {
+    "Id": 10,
+    "StudentId": 10,
+    "SubjectId": 1,
+    "Value": 97
+  },
+  {
+    "Id": 11,
+    "StudentId": 16,
+    "SubjectId": 1,
+    "Value": 98
+  },
+  {
+    "Id": 12,
+    "StudentId": 17,
+    "SubjectId": 1,
+    "Value": 87
+  },
+  {
+    "Id": 16,
+    "StudentId": 2,
+    "SubjectId": 2,
+    "Value": 87
+  },
+  {
+    "Id": 17,
+    "StudentId": 3,
+    "SubjectId": 2,
+    "Value": 67
+  },
+  {
+    "Id": 18,
+    "StudentId": 4,
+    "SubjectId": 2,
+    "Value": 87
+  },
+  {
+    "Id": 20,
+    "StudentId": 6,
+    "SubjectId": 2,
+    "Value": 86
+  },
+  {
+    "Id": 21,
+    "StudentId": 8,
+    "SubjectId": 2,
+    "Value": 86
+  }
+]

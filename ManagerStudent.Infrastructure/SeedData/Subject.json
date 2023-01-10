@@ -1,0 +1,30 @@
+[
+  {
+    "Id":  1,
+    "Name": "Matematicas"
+  },
+  {
+    "Id": 2,
+    "Name": "Lengua española"
+  },
+  {
+    "Id": 3,
+    "Name": "Ciencias Sociales"
+  },
+  {
+    "Id": 4,
+    "Name": "Ciencias Naturales"
+  },
+  {
+    "Id": 5,
+    "Name": "Fisica"
+  },
+  {
+    "Id": 6,
+    "Name": "Artistica"
+  },
+  {
+    "Id": 7,
+    "Name": "Moral y Civica"
+  }
+]
